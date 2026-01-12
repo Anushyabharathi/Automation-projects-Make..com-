@@ -1,11 +1,11 @@
 AI Resume Checker (ATS Evaluation) – Make.com Automation
 
-Project Overview
+Project Overview: 
 The AI Resume Checker is an AI-powered automation workflow built using Make.com that analyzes resumes and simulates ATS (Applicant Tracking System) screening.
 It evaluates resume content against job roles, generates an ATS compatibility score, identifies strengths and gaps, and automatically delivers a structured evaluation report via email.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-Key Features
+Key Features:
               * ATS-based resume analysis
               * AI-generated ATS score (0–100)
               * Role relevance and keyword matching
@@ -14,7 +14,7 @@ Key Features
               * Email delivery without manual intervention
               
 ---------------------------------------------------------------------------------------------------------------------------------------
-How It Works
+How It Works:
             1. User submits a resume link(google docs) using google form
             2. Resume content is extracted
             3. AI analyzes skills, experience, and keywords
@@ -23,7 +23,7 @@ How It Works
             6. The report is automatically sent via email
             
 ---------------------------------------------------------------------------------------------------------------------------------------
-Tech Stack
+Tech Stack:
          * Make.com for workflow automation
          * AI model such as Gemini or OpenAI for resume analysis
          * Gmail module for email delivery
@@ -31,7 +31,7 @@ Tech Stack
          * Prompt engineering and structured output generation
          
 ----------------------------------------------------------------------------------------------------------------------------------------
-Sample Output
+Sample Output: 
 The resume evaluation report includes
                 Identified job role
                 ATS compatibility score
@@ -44,14 +44,14 @@ Here is my result screenshot:
 <img width="400" height="704" alt="image" src="https://github.com/user-attachments/assets/1a2a01f0-0e1f-40c7-b31a-aa4784205afd" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-Use Cases
+Use Cases:
           * Job seekers optimizing resumes for ATS systems
           * Students preparing industry-ready resumes
           * Recruiters performing quick pre-screening
           * HR tech and AI automation demonstrations
           
 ------------------------------------------------------------------------------------------------------------------------------------------
-What I Learned
+What I Learned:
          * Designing AI workflows using Make.com
          * Prompt engineering for consistent AI responses
          * Automating document analysis pipelines
